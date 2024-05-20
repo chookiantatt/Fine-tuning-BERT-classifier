@@ -18,10 +18,17 @@ Features
 Usage
 
 Aluminium oxide --> Inorganic
+
 Sapphire --> Mineral
+
 PVC --> Polymer
+
 Polyurethane --> Polymer
+
 Fe<sub>2</sub>O<sub>3</sub>  --> Inorganic
+
 Fe.Cu.Mn  --> Alloy
+
 Al<sub>2</sub>O<sub>3</sub>  --> Mineral, Inorgic
+
 Tungsten Carbide(WC)  --> Compound
