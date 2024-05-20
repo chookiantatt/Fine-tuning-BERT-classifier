@@ -1,5 +1,5 @@
-# bert_classifier
-Fine-tuning multi-label material classifier(BERT)
+# Fine-tuning multi-label material classifier(BERT)
+
 
 ****A material classification task using BERT (Bidirectional Encoder Representations from Transformers) to predict multiple classes for chemical/biological substances.****
 
